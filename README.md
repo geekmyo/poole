@@ -1,21 +1,21 @@
 # Personal blog of myohtetaung
 
-- Personal blog that sharing startup journey and random thoughts.
-- Power by Jekyll Poole
+Personal blog that sharing startup journey and random thoughts.
+
+- Power by Jekyll
+
 ## Author
+
 **Myo Htet Aung**
 - <https://github.com/geekmyo>
 
 
-## Origina Author
+## Forked From Poole
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
+- The Jekyll Butler 
+- Get it from <https://getpoole.com>
 
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
 
-<3
